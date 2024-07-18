@@ -113,7 +113,11 @@ tools = [
     Tool(
         name="Answer Question",
         func=lambda input, **kwargs: rag_chain.invoke(
-            {"input": input, "chat_history": kwargs.get("chat_history", [])}
+            {
+                "input": input, 
+                "chat_history": kwargs.get("chat_history", []),
+                "filter_by_metadata": kwargs.get("filter_by_metadata", {})
+            }
         ),
         description="useful for when you need to answer questions about the context",
     )
@@ -140,7 +144,12 @@ while True:
     if query.lower() == "exit":
         break
     response = agent_executor.invoke(
-        {"input": query, "chat_history": chat_history})
+        {
+            "input": query,
+            "chat_history": chat_history,
+            "filter_by_metadata": {"user": "user-1"}  # Add desired metadata filter here
+        }
+    )
     print(f"AI: {response['output']}")
 
     # Update history

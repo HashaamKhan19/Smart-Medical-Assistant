@@ -42,6 +42,7 @@ if not os.path.exists(persistent_directory):
             user_docs = loader.load()
             for doc in user_docs:
                 # Add metadata to each document indicating its source and user
+                print("This is the user dir and user file", user_dir, user_file)
                 doc.metadata = {"source": user_file, "user": user_dir}
                 print(f"Loaded document from {user_file} for user {user_dir}")
                 documents.append(doc)
