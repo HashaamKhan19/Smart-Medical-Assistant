@@ -1,0 +1,91 @@
+Surgeries:
+
+1. Appendectomy
+   - Date: July 12, 2005
+   - Surgeon: Dr. Henry Johnson
+   - Hospital: Springfield General Hospital
+   - Reason: Acute appendicitis
+   - Complications: None
+   - Recovery: Uneventful, full recovery in 4 weeks
+   - Additional Notes: Patient experienced typical postoperative pain, managed with acetaminophen.
+
+2. Knee Arthroscopy
+   - Date: September 23, 2018
+   - Surgeon: Dr. Michael Thompson
+   - Hospital: Springfield Orthopedic Center
+   - Reason: Torn meniscus
+   - Complications: None
+   - Recovery: Completed physical therapy, full recovery in 6 months
+   - Additional Notes: Patient advised to avoid high-impact activities for 3 months post-surgery.
+
+3. Endoscopic Sinus Surgery
+   - Date: September 14, 2015
+   - Surgeon: Dr. Olivia Martinez
+   - Hospital: Springfield ENT Clinic
+   - Reason: Chronic sinusitis
+   - Complications: Minor bleeding controlled intraoperatively
+   - Recovery: Full recovery in 8 weeks, improved sinus function
+   - Additional Notes: Patient reported significant reduction in sinus infections post-surgery.
+
+4. Inguinal Hernia Repair
+   - Date: May 20, 2009
+   - Surgeon: Dr. Robert Lewis
+   - Hospital: Springfield Surgical Center
+   - Reason: Inguinal hernia
+   - Complications: None
+   - Recovery: Full recovery in 6 weeks, no recurrence
+   - Additional Notes: Patient advised to avoid heavy lifting for 8 weeks post-surgery.
+
+5. Carpal Tunnel Release
+   - Date: November 11, 2017
+   - Surgeon: Dr. Emily Roberts
+   - Hospital: Springfield Hand Clinic
+   - Reason: Carpal tunnel syndrome
+   - Complications: None
+   - Recovery: Full recovery in 3 months, significant symptom relief
+   - Additional Notes: Patient reported improved hand function and reduced pain post-surgery.
+
+6. Cataract Surgery (Left Eye)
+   - Date: February 2, 2021
+   - Surgeon: Dr. James Wright
+   - Hospital: Springfield Eye Institute
+   - Reason: Cataract
+   - Complications: None
+   - Recovery: Full recovery in 4 weeks, improved vision
+   - Additional Notes: Patient advised to wear protective eyewear and avoid strenuous activities for 2 weeks post-surgery.
+
+7. Cataract Surgery (Right Eye)
+   - Date: April 15, 2021
+   - Surgeon: Dr. James Wright
+   - Hospital: Springfield Eye Institute
+   - Reason: Cataract
+   - Complications: None
+   - Recovery: Full recovery in 4 weeks, improved vision
+   - Additional Notes: Similar postoperative care as left eye cataract surgery, no complications.
+
+8. Gallbladder Removal (Cholecystectomy)
+   - Date: August 9, 2012
+   - Surgeon: Dr. Laura Mitchell
+   - Hospital: Springfield General Hospital
+   - Reason: Gallstones
+   - Complications: None
+   - Recovery: Full recovery in 6 weeks, no dietary restrictions post-surgery
+   - Additional Notes: Patient reported complete resolution of previous symptoms related to gallstones.
+
+9. Lumbar Laminectomy
+   - Date: March 15, 2019
+   - Surgeon: Dr. David Harris
+   - Hospital: Springfield Spine Center
+   - Reason: Lumbar spinal stenosis
+   - Complications: None
+   - Recovery: Full recovery in 3 months, significant pain relief
+   - Additional Notes: Patient advised to perform regular back strengthening exercises post-recovery.
+
+10. Tonsillectomy
+    - Date: August 3, 1987
+    - Surgeon: Dr. William Carter
+    - Hospital: Springfield Children's Hospital
+    - Reason: Recurrent tonsillitis
+    - Complications: None
+    - Recovery: Full recovery in 2 weeks
+    - Additional Notes: Patient experienced typical postoperative pain, managed with acetaminophen and soft diet.

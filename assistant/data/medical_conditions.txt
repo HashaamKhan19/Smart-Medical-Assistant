@@ -1,0 +1,117 @@
+Medical Conditions:
+
+1. Hypertension
+   - Diagnosed: March 2015
+   - Current Medication: Amlodipine 5mg daily
+   - Previous Medications:
+     - Lisinopril 10mg daily (2015-2018)
+     - Metoprolol 50mg daily (2018-2020)
+   - Specialist Consulted: Dr. Sarah Johnson, Cardiologist
+   - Last Blood Pressure Reading: 140/90 mmHg (January 2024)
+   - Additional Notes: Patient advised to follow a low-sodium diet and engage in regular physical activity.
+
+2. Type 2 Diabetes
+   - Diagnosed: June 2010
+   - Current Medication: Metformin 500mg twice daily
+   - Previous Medications:
+     - Glipizide 5mg daily (2010-2015)
+     - Insulin therapy (short-term during hospitalization, 2016)
+   - Specialist Consulted: Dr. Alan Smith, Endocrinologist
+   - Last HbA1c Reading: 7.5% (January 2024)
+   - Additional Notes: Patient advised to monitor blood glucose levels regularly and maintain a low-carb diet.
+
+3. Hyperlipidemia
+   - Diagnosed: August 2012
+   - Current Medication: Atorvastatin 20mg daily
+   - Previous Medications:
+     - Simvastatin 20mg daily (2012-2016)
+     - Rosuvastatin 10mg daily (2016-2018)
+   - Specialist Consulted: Dr. Rebecca Lee, Cardiologist
+   - Last Cholesterol Reading: Total Cholesterol 220 mg/dL, LDL 130 mg/dL, HDL 45 mg/dL (December 2023)
+   - Additional Notes: Patient advised to follow a heart-healthy diet and exercise regularly.
+
+4. Chronic Lower Back Pain
+   - Diagnosed: May 2017
+   - Current Treatment: Physical therapy (weekly sessions), Ibuprofen 400mg as needed
+   - Previous Treatments:
+     - Chiropractic care (2017-2018)
+     - Corticosteroid injections (2018-2019)
+   - Specialist Consulted: Dr. Michael Nguyen, Orthopedic Specialist
+   - Last MRI: No significant findings (March 2023)
+   - Additional Notes: Patient advised to perform daily stretching exercises and avoid heavy lifting.
+
+5. Asthma
+   - Diagnosed: Childhood (age 10)
+   - Current Medication: Albuterol inhaler as needed, Fluticasone inhaler daily
+   - Previous Medications:
+     - Montelukast 10mg daily (2000-2010)
+     - Salmeterol inhaler (2005-2015)
+   - Specialist Consulted: Dr. Emily Turner, Pulmonologist
+   - Last Pulmonary Function Test: FEV1 80% of predicted (November 2023)
+   - Additional Notes: Patient advised to avoid known triggers (dust, pollen) and use inhalers as directed.
+
+6. Depression
+   - Diagnosed: January 2018
+   - Current Medication: Sertraline 50mg daily
+   - Previous Medications:
+     - Fluoxetine 20mg daily (2018-2019)
+     - Bupropion 150mg daily (2019-2020)
+   - Specialist Consulted: Dr. Laura Hernandez, Psychiatrist
+   - Last Mental Health Evaluation: Moderate improvement noted (February 2024)
+   - Additional Notes: Patient advised to attend regular counseling sessions and practice mindfulness techniques.
+
+7. Osteoarthritis (Knee)
+   - Diagnosed: September 2018
+   - Current Treatment: Acetaminophen 500mg as needed, Physical therapy (bi-weekly sessions)
+   - Previous Treatments:
+     - Hyaluronic acid injections (2018-2019)
+     - Platelet-rich plasma (PRP) therapy (2020)
+   - Specialist Consulted: Dr. David Brown, Rheumatologist
+   - Last X-ray: Moderate joint space narrowing noted (October 2023)
+   - Additional Notes: Patient advised to maintain a healthy weight and perform low-impact exercises.
+
+8. Gastroesophageal Reflux Disease (GERD)
+   - Diagnosed: April 2016
+   - Current Medication: Omeprazole 20mg daily
+   - Previous Medications:
+     - Ranitidine 150mg twice daily (2016-2019)
+   - Specialist Consulted: Dr. Angela Clark, Gastroenterologist
+   - Last Endoscopy: Mild esophagitis noted (January 2023)
+   - Additional Notes: Patient advised to avoid trigger foods (spicy, acidic) and eat smaller, more frequent meals.
+
+9. Seasonal Allergies
+   - Diagnosed: Childhood (age 8)
+   - Current Medication: Cetirizine 10mg daily during allergy season
+   - Previous Medications:
+     - Loratadine 10mg daily (childhood-2010)
+   - Specialist Consulted: Dr. Jennifer Wilson, Allergist
+   - Last Allergy Test: Positive for pollen, dust mites (April 2023)
+   - Additional Notes: Patient advised to use air purifiers at home and avoid outdoor activities during high pollen days.
+
+10. Migraine Headaches
+    - Diagnosed: November 2013
+    - Current Medication: Sumatriptan 50mg as needed
+    - Previous Medications:
+      - Topiramate 25mg daily (2013-2015)
+      - Propranolol 20mg daily (2015-2018)
+    - Specialist Consulted: Dr. Christopher Adams, Neurologist
+    - Last Neurological Examination: No significant abnormalities noted (August 2023)
+    - Additional Notes: Patient advised to avoid known triggers (stress, certain foods) and maintain a regular sleep schedule.
+
+11. Chronic Sinusitis
+    - Diagnosed: February 2014
+    - Current Treatment: Nasal saline irrigation, Fluticasone nasal spray daily
+    - Previous Treatments:
+      - Antibiotics (amoxicillin-clavulanate) during acute flare-ups
+      - Endoscopic sinus surgery (September 2015)
+    - Specialist Consulted: Dr. Olivia Martinez, ENT Specialist
+    - Last Sinus CT Scan: Mild chronic inflammation noted (November 2023)
+    - Additional Notes: Patient advised to avoid allergens and maintain nasal hygiene.
+
+12. Hypothyroidism
+    - Diagnosed: January 2020
+    - Current Medication: Levothyroxine 50mcg daily
+    - Previous Medications: None
+    - Specialist Consulted: Dr. Anthony Evans, Endocrinologist
+    - Last Thyroid Function Test: TSH 2.5 mIU/L (December 2023)
+    - Additional Notes: Patient advised to take medication on an empty stomach and have regular thyroid function tests.

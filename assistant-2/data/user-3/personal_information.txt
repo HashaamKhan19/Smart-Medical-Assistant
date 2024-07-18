@@ -1,0 +1,10 @@
+Name: Haris
+Age: 23
+Gender: Male
+Height: 5'8"
+Weight: 160 lbs
+Blood Type: B+
+Allergies: Sulfa drugs
+Medications: Levothyroxine 50mcg daily
+Past Medical History: Hypothyroidism
+Family History: Mother had rheumatoid arthritis, father had colon cancer

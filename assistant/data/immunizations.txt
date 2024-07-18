@@ -1,0 +1,64 @@
+Immunizations:
+
+1. Hepatitis B Vaccine
+   - Date of Initial Series: January 5, 1985 (three doses)
+   - Date of Booster: December 12, 2020
+   - Additional Notes: Administered due to high-risk exposure as a healthcare worker.
+
+2. Measles, Mumps, Rubella (MMR) Vaccine
+   - Date of Initial Series: March 10, 1986 (two doses)
+   - Date of Booster: September 23, 2021
+   - Additional Notes: Booster administered following exposure during a local outbreak.
+
+3. Tetanus, Diphtheria, Pertussis (Tdap) Vaccine
+   - Date of Initial Series: April 15, 1987
+   - Date of Booster: June 14, 2023
+   - Additional Notes: Administered every 10 years as per CDC guidelines.
+
+4. Polio Vaccine (IPV)
+   - Date of Initial Series: February 20, 1985 (four doses)
+   - Additional Notes: Fully vaccinated in childhood; no boosters required.
+
+5. Varicella (Chickenpox) Vaccine
+   - Date of Initial Series: August 25, 1990 (two doses)
+   - Additional Notes: No history of chickenpox, fully vaccinated.
+
+6. Human Papillomavirus (HPV) Vaccine
+   - Date of Initial Series: June 18, 2010 (three doses)
+   - Additional Notes: Administered as a preventive measure against HPV-related diseases.
+
+7. Influenza Vaccine
+   - Date of Last Annual Dose: October 10, 2023
+   - History: Received annually since 2010
+   - Additional Notes: Annual vaccination as per CDC recommendations for seasonal flu prevention.
+
+8. Pneumococcal Vaccine (PPSV23)
+   - Date of Vaccination: November 5, 2022
+   - Additional Notes: Administered due to chronic health conditions; revaccination in 5-10 years as needed.
+
+9. Herpes Zoster (Shingles) Vaccine
+   - Date of Vaccination: May 8, 2023 (two doses)
+   - Additional Notes: Administered as per guidelines for adults over 50 to prevent shingles.
+
+10. COVID-19 Vaccine
+    - Date of Initial Series: March 1, 2021 (two doses of Pfizer-BioNTech)
+    - Date of Booster 1: September 15, 2021
+    - Date of Booster 2: March 15, 2022
+    - Date of Booster 3: September 20, 2023
+    - Additional Notes: Fully vaccinated with regular boosters as per updated public health guidelines.
+
+11. Hepatitis A Vaccine
+    - Date of Initial Series: April 20, 2015 (two doses)
+    - Additional Notes: Administered due to travel to endemic regions.
+
+12. Meningococcal Vaccine
+    - Date of Vaccination: August 12, 2018
+    - Additional Notes: Administered due to increased risk from college dormitory living environment.
+
+13. Rabies Vaccine
+    - Date of Initial Series: June 1, 2010 (three doses)
+    - Additional Notes: Administered due to potential exposure as a veterinary technician.
+
+14. Typhoid Vaccine
+    - Date of Vaccination: July 15, 2017
+    - Additional Notes: Administered due to travel to regions with high typhoid fever incidence.

@@ -1,0 +1,10 @@
+Name: Abdul Moeed
+Age: 24
+Gender: Male
+Height: 5'10"
+Weight: 150 lbs
+Blood Type: A+
+Allergies: None
+Medications: Metformin 500mg twice daily
+Past Medical History: Type 2 Diabetes
+Family History: Mother had breast cancer, father has hypertension

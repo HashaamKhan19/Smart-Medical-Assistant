@@ -1,0 +1,107 @@
+Allergies:
+
+1. Penicillin
+   - Reaction: Rash, Hives
+   - First Noted: March 2005
+   - Severity: Moderate
+   - Management:
+     - Avoidance of penicillin and related antibiotics
+     - Use of alternative antibiotics (e.g., erythromycin, clindamycin)
+   - Last Reaction: March 2015
+   - Additional Notes: Patient carries an allergy alert card for penicillin.
+
+2. Peanuts
+   - Reaction: Anaphylaxis
+   - First Noted: June 2008
+   - Severity: Severe
+   - Management:
+     - Strict avoidance of peanuts and peanut-containing products
+     - Use of epinephrine auto-injector (EpiPen) in case of accidental exposure
+     - Antihistamines (e.g., diphenhydramine) for mild reactions
+   - Last Reaction: January 2012
+   - Additional Notes: Patient advised to always carry an EpiPen and wear a medical alert bracelet.
+
+3. Dust Mites
+   - Reaction: Sneezing, Runny Nose, Itchy Eyes
+   - First Noted: September 1995
+   - Severity: Mild to Moderate
+   - Management:
+     - Use of antihistamines (e.g., cetirizine) during peak allergy seasons
+     - Regular cleaning and vacuuming of home
+     - Use of dust mite-proof covers on pillows and mattresses
+   - Last Reaction: Ongoing during high dust periods
+   - Additional Notes: Patient advised to use air purifiers at home.
+
+4. Pollen (Various Trees and Grasses)
+   - Reaction: Sneezing, Runny Nose, Itchy Eyes
+   - First Noted: April 1997
+   - Severity: Mild to Moderate
+   - Management:
+     - Use of antihistamines (e.g., cetirizine) during pollen seasons
+     - Nasal saline irrigation to relieve symptoms
+     - Limiting outdoor activities during high pollen days
+   - Last Reaction: Spring 2023
+   - Additional Notes: Patient advised to follow local pollen forecasts and take preventive measures.
+
+5. Shellfish (Shrimp, Crab, Lobster)
+   - Reaction: Hives, Swelling of Lips and Throat
+   - First Noted: July 2010
+   - Severity: Severe
+   - Management:
+     - Strict avoidance of shellfish and shellfish-containing products
+     - Use of epinephrine auto-injector (EpiPen) in case of accidental exposure
+     - Antihistamines (e.g., diphenhydramine) for mild reactions
+   - Last Reaction: July 2015
+   - Additional Notes: Patient carries an allergy alert card for shellfish.
+
+6. Latex
+   - Reaction: Contact Dermatitis (Redness, Itching, Swelling)
+   - First Noted: November 2009
+   - Severity: Moderate
+   - Management:
+     - Avoidance of latex-containing products (e.g., gloves, balloons)
+     - Use of latex-free alternatives (e.g., nitrile or vinyl gloves)
+   - Last Reaction: February 2020
+   - Additional Notes: Patient advised to inform healthcare providers about latex allergy before any procedures.
+
+7. Insect Stings (Bees, Wasps)
+   - Reaction: Local Swelling, Redness, Itching
+   - First Noted: August 1998
+   - Severity: Moderate
+   - Management:
+     - Use of cold compresses and antihistamines (e.g., cetirizine) to reduce symptoms
+     - Epinephrine auto-injector (EpiPen) prescribed for potential severe reactions
+   - Last Reaction: July 2019
+   - Additional Notes: Patient advised to avoid areas with high insect activity and wear protective clothing when outdoors.
+
+8. Mold
+   - Reaction: Sneezing, Coughing, Itchy Eyes
+   - First Noted: May 2002
+   - Severity: Mild
+   - Management:
+     - Use of antihistamines (e.g., cetirizine) during mold exposure
+     - Regular cleaning to prevent mold growth at home
+     - Use of dehumidifiers to control indoor humidity levels
+   - Last Reaction: Ongoing during mold exposure
+   - Additional Notes: Patient advised to avoid damp areas and ensure proper ventilation at home.
+
+9. Cat Dander
+   - Reaction: Sneezing, Runny Nose, Itchy Eyes
+   - First Noted: February 2001
+   - Severity: Mild to Moderate
+   - Management:
+     - Use of antihistamines (e.g., cetirizine) during exposure to cats
+     - Avoidance of prolonged exposure to cats and cat dander
+     - Regular cleaning and vacuuming to reduce dander at home
+   - Last Reaction: Ongoing during exposure to cats
+   - Additional Notes: Patient advised to minimize contact with cats and use air purifiers to reduce dander.
+
+10. Aspirin
+    - Reaction: Hives, Stomach Pain
+    - First Noted: October 2003
+    - Severity: Moderate
+    - Management:
+      - Avoidance of aspirin and aspirin-containing medications
+      - Use of alternative pain relievers (e.g., acetaminophen)
+    - Last Reaction: October 2008
+    - Additional Notes: Patient advised to inform healthcare providers about aspirin allergy before any treatments.

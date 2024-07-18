@@ -1,0 +1,91 @@
+Current Symptoms:
+
+1. Chest Pain
+   - Description: Mild, intermittent chest pain during exertion
+   - Duration: 3 weeks
+   - Severity: Mild to moderate
+   - Aggravating Factors: Physical activity, stress
+   - Relieving Factors: Rest, relaxation
+   - Associated Symptoms: Shortness of breath
+   - Additional Notes: Referred to cardiologist, follow-up scheduled.
+
+2. Lower Back Pain
+   - Description: Dull, aching pain in the lower back
+   - Duration: 2 months
+   - Severity: Moderate
+   - Aggravating Factors: Prolonged sitting, heavy lifting
+   - Relieving Factors: Rest, physical therapy exercises, ibuprofen
+   - Associated Symptoms: Occasional radiating pain to the right leg
+   - Additional Notes: MRI showed mild disc bulge at L4-L5, continuing physical therapy.
+
+3. Fatigue
+   - Description: Persistent feeling of tiredness and lack of energy
+   - Duration: 6 weeks
+   - Severity: Moderate
+   - Aggravating Factors: Lack of sleep, stress
+   - Relieving Factors: Rest, adequate sleep
+   - Associated Symptoms: Difficulty concentrating, irritability
+   - Additional Notes: Patient advised to improve sleep hygiene and manage stress.
+
+4. Shortness of Breath
+   - Description: Difficulty breathing, especially during physical activity
+   - Duration: 1 month
+   - Severity: Moderate
+   - Aggravating Factors: Exercise, exposure to allergens
+   - Relieving Factors: Rest, use of inhaler (Albuterol)
+   - Associated Symptoms: Wheezing, chest tightness
+   - Additional Notes: Pulmonary function test scheduled, advised to avoid known allergens.
+
+5. Itchy Skin Rash
+   - Description: Red, itchy rash on forearms
+   - Duration: 3 weeks
+   - Severity: Mild to moderate
+   - Aggravating Factors: Contact with certain soaps and lotions
+   - Relieving Factors: Hydrocortisone cream, avoiding irritants
+   - Associated Symptoms: Dry skin, slight swelling
+   - Additional Notes: Diagnosed with contact dermatitis, follow-up with dermatologist scheduled.
+
+6. Frequent Urination
+   - Description: Increased frequency of urination, especially at night
+   - Duration: 2 months
+   - Severity: Mild to moderate
+   - Aggravating Factors: High fluid intake, caffeine
+   - Relieving Factors: Reducing fluid intake before bedtime
+   - Associated Symptoms: Occasional urgency, mild discomfort
+   - Additional Notes: Blood glucose levels being monitored for diabetes management.
+
+7. Headaches
+   - Description: Throbbing pain in the temples and forehead
+   - Duration: 4 weeks
+   - Severity: Mild to moderate
+   - Aggravating Factors: Stress, lack of sleep, dehydration
+   - Relieving Factors: Rest, hydration, over-the-counter pain relief (acetaminophen)
+   - Associated Symptoms: Light sensitivity, occasional nausea
+   - Additional Notes: Patient advised to maintain a regular sleep schedule and stay hydrated.
+
+8. Joint Pain
+   - Description: Aching pain in the knees, especially the right knee
+   - Duration: 3 months
+   - Severity: Moderate
+   - Aggravating Factors: Walking, standing for long periods
+   - Relieving Factors: Rest, acetaminophen, physical therapy
+   - Associated Symptoms: Mild swelling, stiffness
+   - Additional Notes: Diagnosed with osteoarthritis, follow-up with rheumatologist scheduled.
+
+9. Heartburn
+   - Description: Burning sensation in the chest, especially after meals
+   - Duration: 5 weeks
+   - Severity: Mild to moderate
+   - Aggravating Factors: Spicy foods, lying down after eating
+   - Relieving Factors: Antacids, avoiding trigger foods
+   - Associated Symptoms: Acid reflux, regurgitation
+   - Additional Notes: Continuing Omeprazole, advised to avoid large meals and eat smaller, more frequent meals.
+
+10. Anxiety
+    - Description: Persistent feeling of worry and unease
+    - Duration: 3 months
+    - Severity: Moderate
+    - Aggravating Factors: Stressful situations, lack of sleep
+    - Relieving Factors: Counseling, mindfulness techniques
+    - Associated Symptoms: Restlessness, difficulty concentrating, palpitations
+    - Additional Notes: Continuing with psychiatric counseling sessions, medication adjusted to manage symptoms.

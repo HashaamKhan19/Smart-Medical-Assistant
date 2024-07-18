@@ -1,0 +1,80 @@
+Family Medical History:
+
+1. Father (John Doe)
+   - Age: 75
+   - Medical Conditions:
+     - Hypertension: Diagnosed at age 55, managed with medication (Lisinopril)
+     - Type 2 Diabetes: Diagnosed at age 60, managed with Metformin and dietary changes
+     - Coronary Artery Disease: Diagnosed at age 65, underwent angioplasty at age 67
+     - Osteoarthritis: Diagnosed at age 70, affecting knees and hands
+   - Additional Notes: Non-smoker, occasional alcohol consumption, physically active with regular walking.
+
+2. Mother (Jane Doe)
+   - Age: 72
+   - Medical Conditions:
+     - Hypothyroidism: Diagnosed at age 50, managed with Levothyroxine
+     - Osteoporosis: Diagnosed at age 65, treated with bisphosphonates (Alendronate)
+     - Breast Cancer: Diagnosed at age 68, treated with lumpectomy and radiation therapy, currently in remission
+     - High Cholesterol: Diagnosed at age 55, managed with dietary changes and Atorvastatin
+   - Additional Notes: Non-smoker, moderate alcohol consumption, participates in yoga and pilates regularly.
+
+3. Sibling 1 (James Doe)
+   - Age: 45
+   - Medical Conditions:
+     - Hypertension: Diagnosed at age 40, managed with medication (Amlodipine)
+     - Asthma: Diagnosed in childhood, managed with inhalers (Albuterol, Fluticasone)
+   - Additional Notes: Non-smoker, occasional alcohol consumption, active lifestyle with regular gym workouts.
+
+4. Sibling 2 (Emma Doe)
+   - Age: 42
+   - Medical Conditions:
+     - Rheumatoid Arthritis: Diagnosed at age 35, managed with Methotrexate and biologics (Adalimumab)
+     - Depression: Diagnosed at age 30, managed with Sertraline and counseling
+   - Additional Notes: Non-smoker, no alcohol consumption, engages in regular swimming and cycling.
+
+5. Paternal Grandfather (Michael Doe)
+   - Age at Death: 82
+   - Cause of Death: Stroke
+   - Medical Conditions:
+     - Hypertension: Diagnosed at age 60, managed with medication
+     - Type 2 Diabetes: Diagnosed at age 65, managed with insulin
+   - Additional Notes: Smoker for 30 years, quit at age 55, moderate alcohol consumption.
+
+6. Paternal Grandmother (Mary Doe)
+   - Age at Death: 88
+   - Cause of Death: Natural causes
+   - Medical Conditions:
+     - Osteoarthritis: Diagnosed at age 70, affected knees and hips
+     - High Cholesterol: Diagnosed at age 60, managed with diet and medication
+   - Additional Notes: Non-smoker, no alcohol consumption, engaged in light physical activity such as gardening.
+
+7. Maternal Grandfather (Robert Smith)
+   - Age at Death: 75
+   - Cause of Death: Lung Cancer
+   - Medical Conditions:
+     - Chronic Obstructive Pulmonary Disease (COPD): Diagnosed at age 60
+     - Hypertension: Diagnosed at age 55, managed with medication
+   - Additional Notes: Heavy smoker for 50 years, no alcohol consumption, limited physical activity due to COPD.
+
+8. Maternal Grandmother (Linda Smith)
+   - Age at Death: 85
+   - Cause of Death: Heart Failure
+   - Medical Conditions:
+     - Hypertension: Diagnosed at age 60, managed with medication
+     - Congestive Heart Failure: Diagnosed at age 80
+   - Additional Notes: Non-smoker, occasional alcohol consumption, participated in community walking groups.
+
+9. Maternal Aunt (Susan Smith)
+   - Age: 68
+   - Medical Conditions:
+     - Breast Cancer: Diagnosed at age 60, treated with mastectomy and chemotherapy, currently in remission
+     - Hypertension: Diagnosed at age 55, managed with medication
+   - Additional Notes: Non-smoker, moderate alcohol consumption, active lifestyle with regular walking and aerobics.
+
+10. Paternal Uncle (David Doe)
+    - Age: 70
+    - Medical Conditions:
+      - Type 2 Diabetes: Diagnosed at age 55, managed with Metformin and lifestyle changes
+      - High Cholesterol: Diagnosed at age 50, managed with diet and medication
+      - Prostate Cancer: Diagnosed at age 65, treated with radiation therapy, currently in remission
+    - Additional Notes: Non-smoker, moderate alcohol consumption, enjoys hiking and outdoor activities.

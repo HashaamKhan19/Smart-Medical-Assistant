@@ -1,0 +1,10 @@
+Name: Hashaam
+Age: 22
+Gender: Male
+Height: 5'6"
+Weight: 132 lbs
+Blood Type: B+
+Allergies: Penicillin
+Medications: Lisinopril 10mg daily, Atorvastatin 20mg daily
+Past Medical History: Hypertension, Hyperlipidemia
+Family History: Father had heart disease, mother had diabetes

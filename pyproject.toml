@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "ai-medical-assistant"
+version = "0.1.0"
+description = "AI Medical Assistant for doctors"
+authors = ["hashaam <hashaam@hashaam.io>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10.0,<3.12"
+langchain-openai = "^0.1.8"
+python-dotenv = "^1.0.1"
+langchain = "^0.2.1"
+langchain-community = "^0.2.1"
+langchain-anthropic = "^0.1.15"
+langchain-google-genai = "^1.0.5"
+chromadb = "^0.5.0"
+tiktoken = "^0.7.0"
+sentence-transformers = "^3.0.0"
+langchainhub = "^0.1.18"
+
+[tool.pyright]
+# https://github.com/microsoft/pyright/blob/main/docs/configuration.md
+useLibraryCodeForTypes = true
+exclude = [".cache"]
+
+[tool.ruff]
+# https://beta.ruff.rs/docs/configuration/
+select = ['E', 'W', 'F', 'I', 'B', 'C4', 'ARG', 'SIM']
+ignore = ['W291', 'W292', 'W293']
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api" 

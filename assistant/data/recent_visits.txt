@@ -1,0 +1,157 @@
+Recent Doctor Visits:
+
+1. Annual Physical Check-up
+   - Date: January 15, 2024
+   - Doctor: Dr. Samantha White, Primary Care Physician
+   - Clinic: Springfield Health Clinic
+   - Reason: Routine annual check-up
+   - Findings:
+     - Blood Pressure: 140/90 mmHg
+     - Heart Rate: 75 bpm
+     - Weight: 85 kg
+     - Height: 175 cm
+     - BMI: 27.8
+     - HbA1c: 7.5%
+     - Cholesterol: Total 220 mg/dL, LDL 130 mg/dL, HDL 45 mg/dL
+   - Recommendations:
+     - Continue current medications
+     - Increase physical activity to 150 minutes per week
+     - Follow a low-sodium, low-carb diet
+     - Schedule follow-up in 6 months
+   - Additional Notes: Patient reported mild chest pain during exertion, referred to cardiologist.
+
+2. Cardiologist Visit
+   - Date: February 5, 2024
+   - Doctor: Dr. Sarah Johnson, Cardiologist
+   - Clinic: Springfield Cardiology Associates
+   - Reason: Follow-up for hypertension and chest pain
+   - Findings:
+     - Blood Pressure: 135/85 mmHg
+     - ECG: Normal
+     - Stress Test: Indicated mild ischemia
+     - Echocardiogram: Normal function, no significant abnormalities
+   - Recommendations:
+     - Continue Amlodipine 5mg daily
+     - Consider starting low-dose aspirin
+     - Follow-up in 3 months
+   - Additional Notes: Patient advised to monitor blood pressure at home and report any increase in chest pain.
+
+3. Endocrinologist Visit
+   - Date: March 10, 2024
+   - Doctor: Dr. Alan Smith, Endocrinologist
+   - Clinic: Springfield Endocrinology Center
+   - Reason: Follow-up for Type 2 Diabetes
+   - Findings:
+     - HbA1c: 7.2%
+     - Fasting Blood Glucose: 130 mg/dL
+     - Weight: 84 kg
+     - Blood Pressure: 138/88 mmHg
+   - Recommendations:
+     - Continue Metformin 500mg twice daily
+     - Consider adding GLP-1 receptor agonist for better glucose control
+     - Increase physical activity and dietary modifications
+     - Follow-up in 3 months
+   - Additional Notes: Patient advised to monitor blood glucose levels regularly and keep a log.
+
+4. Orthopedic Specialist Visit
+   - Date: April 18, 2024
+   - Doctor: Dr. Michael Nguyen, Orthopedic Specialist
+   - Clinic: Springfield Orthopedic Center
+   - Reason: Chronic lower back pain
+   - Findings:
+     - Physical Exam: Tenderness in lumbar region
+     - X-ray: No significant abnormalities
+     - MRI: Mild disc bulge at L4-L5
+   - Recommendations:
+     - Continue physical therapy
+     - Prescribed Ibuprofen 400mg as needed
+     - Avoid heavy lifting and prolonged sitting
+     - Follow-up in 6 months
+   - Additional Notes: Patient advised to perform daily stretching exercises.
+
+5. Psychiatrist Visit
+   - Date: May 23, 2024
+   - Doctor: Dr. Laura Hernandez, Psychiatrist
+   - Clinic: Springfield Mental Health Center
+   - Reason: Follow-up for depression
+   - Findings:
+     - Mental Status Exam: Mild improvement in mood and affect
+     - Medication: Sertraline 50mg daily, continued
+   - Recommendations:
+     - Continue current medication
+     - Increase frequency of counseling sessions to weekly
+     - Practice mindfulness and relaxation techniques
+     - Follow-up in 2 months
+   - Additional Notes: Patient reported occasional insomnia, advised to establish a regular sleep routine.
+
+6. Dermatologist Visit
+   - Date: June 7, 2024
+   - Doctor: Dr. Jennifer Wilson, Dermatologist
+   - Clinic: Springfield Dermatology Clinic
+   - Reason: Evaluation of skin rash
+   - Findings:
+     - Physical Exam: Erythematous, itchy rash on forearms
+     - Diagnosis: Contact dermatitis
+   - Recommendations:
+     - Prescribed hydrocortisone cream 1% for topical application
+     - Advised to avoid known irritants (e.g., certain soaps, lotions)
+     - Follow-up in 4 weeks
+   - Additional Notes: Patient advised to use hypoallergenic skin products and keep the affected area moisturized.
+
+7. Pulmonologist Visit
+   - Date: July 12, 2024
+   - Doctor: Dr. Emily Turner, Pulmonologist
+   - Clinic: Springfield Pulmonary Center
+   - Reason: Follow-up for asthma management
+   - Findings:
+     - Pulmonary Function Test: FEV1 82% of predicted
+     - Asthma Control Test: Score of 19 (well controlled)
+   - Recommendations:
+     - Continue current inhalers (Albuterol as needed, Fluticasone daily)
+     - Monitor symptoms and use peak flow meter daily
+     - Follow-up in 6 months
+   - Additional Notes: Patient advised to avoid known triggers (dust, pollen) and ensure compliance with medication.
+
+8. Ophthalmologist Visit
+   - Date: August 14, 2024
+   - Doctor: Dr. James Wright, Ophthalmologist
+   - Clinic: Springfield Eye Institute
+   - Reason: Annual eye exam and follow-up for cataract surgeries
+   - Findings:
+     - Visual Acuity: 20/20 (corrected) in both eyes
+     - Intraocular Pressure: Normal
+     - No signs of new cataract formation or other eye diseases
+   - Recommendations:
+     - Continue using prescribed eye drops as needed
+     - Protect eyes from UV exposure
+     - Follow-up in 1 year
+   - Additional Notes: Patient advised to report any changes in vision immediately.
+
+9. Gastroenterologist Visit
+   - Date: September 10, 2024
+   - Doctor: Dr. Angela Clark, Gastroenterologist
+   - Clinic: Springfield Gastroenterology Center
+   - Reason: Follow-up for GERD
+   - Findings:
+     - Upper Endoscopy: Mild esophagitis, no new abnormalities
+     - Symptom Review: Heartburn well-controlled with current medication
+   - Recommendations:
+     - Continue Omeprazole 20mg daily
+     - Avoid trigger foods (spicy, acidic) and eat smaller meals
+     - Follow-up in 1 year
+   - Additional Notes: Patient advised to elevate head of bed and avoid lying down immediately after meals.
+
+10. Rheumatologist Visit
+    - Date: October 22, 2024
+    - Doctor: Dr. David Brown, Rheumatologist
+    - Clinic: Springfield Rheumatology Center
+    - Reason: Follow-up for osteoarthritis of the knee
+    - Findings:
+      - Physical Exam: Mild swelling and tenderness in the right knee
+      - X-ray: Moderate joint space narrowing
+    - Recommendations:
+      - Continue acetaminophen 500mg as needed
+      - Continue bi-weekly physical therapy
+      - Consider hyaluronic acid injections if symptoms worsen
+      - Follow-up in 6 months
+    - Additional Notes: Patient advised to maintain a healthy weight and engage in low-impact exercises such as swimming and cycling.
