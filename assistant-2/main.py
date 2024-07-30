@@ -35,19 +35,19 @@ embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
 db = Chroma(persist_directory=persistent_directory,
             embedding_function=embeddings)
 
-# Retriever for querying the vector store
+# This function creates a retriever object that fetches documents from the VS. 
 def get_retriever(filter_by_metadata):
     return db.as_retriever(
         search_type="similarity",
         search_kwargs={
             "k": 3,
-            "filter": {"user": filter_by_metadata["user"]}  # Changed this line
+            "filter": {"user": filter_by_metadata["user"]}
         }
     )
 
 llm = ChatOpenAI(model="gpt-3.5-turbo-0125")
 
-# Contextualize question prompt
+# Contextualize question prompt, For reformulating user questions based on chat history
 contextualize_q_system_prompt = (
     "Given a patient's medical history, current symptoms, and relevant medical literature, "
     "reformulate the latest user question, which might reference context in the chat history, "
@@ -64,7 +64,7 @@ contextualize_q_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-# Answering question prompt
+# Answering question prompt, For answering questions based on retrieved context like an assistant.
 qa_system_prompt = (
     "You are an AI-powered assistant for doctors, designed to reduce the time spent searching for medical information. "
     "Use the following pieces of retrieved context, including a patient's medical history, current symptoms, "
@@ -84,19 +84,24 @@ qa_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-# Create a chain to combine documents for question answering
+#(Question answering chain)
+# Uses LLM and QA prompt to answer questions based on the retrieved documents
+# create_stuff_documents_chain creates a chain for passing the retrieved documents to the LLM
 question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
 
-# Create a retrieval chain that combines the history-aware retriever and the question answering chain
+# Retreival Chain with History awareness
 def create_rag_chain(filter_by_metadata):
+    # Creates a retriever based on metadata.
     retriever = get_retriever(filter_by_metadata)
+    # Creates a history-aware retriever that uses the contextualize_q_prompt, to make the retriever aware of the chat history.
     history_aware_retriever = create_history_aware_retriever(llm, retriever, contextualize_q_prompt)
+    # Combines the history_aware_retriever and the question_answer_chain to create a RAG chain.
     return create_retrieval_chain(history_aware_retriever, question_answer_chain)
 
-# Agent prompt
+# Pulls a prompt from the LangChain hub for the ReAct agent.
 react_docstore_prompt = hub.pull("hwchase17/react")
 
-# Create the tool
+# Creates a tool for answering questions using the RAG chain. The tool invokes the RAG chain to generate a response.
 def create_answer_tool(filter_by_metadata):
     rag_chain = create_rag_chain(filter_by_metadata)
     return Tool(
@@ -111,16 +116,16 @@ def create_answer_tool(filter_by_metadata):
         description="useful for when you need to answer questions about the context",
     )
 
-# Create the ReAct Agent with document store retriever
+# Create the ReAct Agent to interact with document store retriever
 def create_agent(filter_by_metadata):
     tools = [create_answer_tool(filter_by_metadata)]
     return create_react_agent(llm=llm, tools=tools, prompt=react_docstore_prompt)
 
-# Create the agent executor
+# Creates an agent executor that manages the execution of the agent and tools, handling errors if needed.
 def create_agent_executor(filter_by_metadata):
     agent = create_agent(filter_by_metadata)
     return AgentExecutor.from_agent_and_tools(
-        agent=agent, tools=[create_answer_tool(filter_by_metadata)], handle_parsing_errors=True,
+        agent=agent, tools=[create_answer_tool(filter_by_metadata)], handle_parsing_errors=True, verbose=True
     )
 
 # Main loop
